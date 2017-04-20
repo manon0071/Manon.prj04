@@ -1,0 +1,250 @@
+body{
+	font-family: 'Droid Sans Mono', monospace;
+	margin:0;
+	padding: 0;
+}
+header{
+	background-color: #2196F3;
+	padding: :10px 0;
+}
+
+.wrapper {
+	    width: 1000px;
+    margin: 0 auto;
+    overflow: hidden;
+}
+
+.contact-box {
+    width: 50%;
+    float: right;
+    padding: 7px 0px;
+}
+
+.contact-box p{
+    text-align: right;
+    margin: 0;
+    color: white;
+}
+
+.social-box {
+	    width: 50%;
+    float: left;
+}
+.social-box ul{
+	    margin: 0;
+    padding: 0;
+
+}
+
+.social-box ul li{
+    display: inline-block;
+    list-style: none;
+    margin: 0;
+    padding: 0px 10px 4px 0px;
+}
+.social-box ul li a {
+    text-align: right;
+    color: #fff;
+    text-decoration: none;
+}
+
+.container.pad {
+	background-color: white;
+}
+
+
+.logo {    width: 10%;
+    float: left;
+    margin: 5px;
+}
+.logo img{
+	    width: 100px;
+    height: 60px;
+}
+.menu {
+}
+
+.menu ul{
+	    margin: 0;
+    padding: 0;
+    text-align: right;
+    width: 85%;
+    float: left;
+}
+
+.menu ul li{
+	    list-style: none;
+    display: inline-block;
+}
+
+.menu ul li a{
+	display: block;
+    text-decoration: none;
+    text-transform: uppercase;
+    padding: 10px 20px;
+    color: #2196F3;
+}
+
+.banner {
+	    background: url(../images/wfp1.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    padding: 10% 0 0;
+}
+
+.banner-text {
+	    text-align: center;
+    padding: 30px 0 200px 0;
+}
+.banner-text h1 {
+	font-size: 36px;
+    color: rgba(18, 72, 97, 0.92);
+    font-weight: bold;
+    height: 15px;
+}
+audio {
+	width: 300px;
+	height: 32px;
+}
+
+.Join {
+	    background: white;
+}
+
+.Join-us {
+	background-color: white;
+}
+
+.Join-us h1 {
+	text-align: center;
+}
+
+.Join-us p {
+		text-align: center;
+
+}
+
+.one {
+	width: 25%;
+    height: 250px;
+    float: left;
+    box-sizing: border-box;
+    padding: 10px 20px 5px 10px;
+    text-align: center;
+}
+
+.two {
+	    width: 25%;
+    height: 250px;
+    float: left;
+    box-sizing: border-box;
+    padding: 10px 20px 5px 10px;
+    text-align: center;
+
+}
+.three {
+	    width: 25%;
+    height: 250px;
+   float: left;
+    box-sizing: border-box;
+    padding: 10px 20px 5px 10px;
+    text-align: center;
+}
+
+.Four {
+	    width: 25%;
+    height: 250px;
+    float: left;
+    box-sizing: border-box;
+    padding: 10px 20px 5px 10px;
+    text-align: center;
+}
+
+.About {
+	background-color: white;
+}
+
+.left {
+	    width: 50%;
+    float: left;
+    background-color: white;
+	   
+}
+
+.click-image {
+	background: url(../images/click.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    padding: 15% 0 0;
+    float: left;
+    width: 50%;
+}
+
+.click-here {
+	text-align: center;
+}
+
+.Sign-Up {
+	    width: 40%;
+    float: right;
+    text-align: center;
+    background: deepskyblue;
+    margin: 35px;
+}
+
+.form {
+	    margin: 30px auto;
+    padding: 36px 0 60px 0;
+}
+
+.media-panel {
+}
+
+.youtube {
+    text-align: center;
+}
+
+
+.map {
+	text-align: center;
+}
+
+.top-footer {
+	background-color: lightskyblue;
+}
+
+.footer {
+	background-color: darkolivegreen;
+    padding: 0px 0;
+}
+
+.copyright {
+	    width: 50%;
+    float: left;
+}
+
+.copyright-menu {
+	    font-size: 15px;
+}
+.copyright-menu ul {
+	        margin: 0;
+    padding: 0;
+    text-align: right;
+}
+.copyright-menu ul li{
+	        list-style: none;
+    display: inline-block;
+}
+.copyright-menu ul li a{
+	    display: block;
+    text-decoration: none;
+    text-transform: uppercase;
+    padding: 6px 8px;
+    color: rgb(158, 158, 158);
+}
+
+img{
+	max-width: 100%;
+	width:100px;
+}
